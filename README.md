@@ -1,3 +1,5 @@
+![Leon's GitHub Banner](https://ibb.co/x62WG7X)
+
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate Frontend Developer from Melbourne, Australia</h3>
 
